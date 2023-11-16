@@ -1,6 +1,4 @@
-# Presentation
-
-Presentation Tile - Natural Language Processing
+# Title - Seminar on Natural Language Processing
 
 Natural Language Processing uses computational methods to process the information in spoken or written form of such free text data which acts as a mode of communication commonly used by humans.
 There are a lot of processes involved in the pipeline of Natural Language Processing.
